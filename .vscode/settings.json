@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///d%3A/Tema/DevOps/Terraform/AWS%20services/VPC%20creation%20with%20terraform%20and%20github%20actions%20automation/vpc-terraform-github-actions/.github/workflows/deploy.yaml"
+    }
+}
